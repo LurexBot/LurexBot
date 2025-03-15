@@ -10,8 +10,7 @@ Hi, I'm Sunny Kumar! 👋
 
 📫 Connect with me:
 
-🔗 LinkedIn: www.linkedin.com/in/
-sunnykumar77
+🔗 LinkedIn: https://www.linkedin.com/in/sunnykumar77
 
 ✉️ Email: msdsunnykumar77@gmail.com.
 
